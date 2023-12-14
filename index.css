@@ -84,6 +84,7 @@
 	perspective: 1000px;
 	overflow: hidden;
   height: 500px;
+  width: 100%;
 }
 .testimonials .item{
 	width: 300px;
@@ -108,7 +109,7 @@
 	width: 5px;
 	border-radius: 50%;
 	cursor: pointer;
-	background-color: #FFFFFF;
+	background-color: #000000;
 	margin: 7px;
 	transition-duration: 0.2s;
 }
@@ -118,7 +119,7 @@
 #t-4:checked ~ .dots label[for="t-4"],
 #t-5:checked ~ .dots label[for="t-5"]{
 	transform: scale(2);
-	background-color: #fff;
+	background-color: #85a5eb;
 	
 }
 
