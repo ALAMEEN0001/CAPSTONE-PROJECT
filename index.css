@@ -83,13 +83,14 @@
 	min-height: 350px;
 	perspective: 1000px;
 	overflow: hidden;
-  height: 500px;
+  height: 800px;
   width: 100%;
 }
 .testimonials .item{
 	width: 300px;
-	
-	border-radius: 5px;
+  height: 500px;
+
+	border-radius: 20px;
 	
 	position: absolute;
 	border:3px solid white;
